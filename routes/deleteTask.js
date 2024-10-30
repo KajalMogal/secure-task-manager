@@ -12,7 +12,7 @@ const verifyToken = require('../middleware/verifyToken');
         //     return res.status(400).json({ message: 'Invalid task Id' });
         //  }
 
-        //  console.log('Attempting to delete task with id:', id)
+        
 ;         const task = await Task.findByIdAndDelete(id);
 
          if(!task) {
