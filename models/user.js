@@ -21,7 +21,6 @@ const userSchema = new mongoose.Schema({
         required: [true, 'password cannot be blank!']
     },
 
-    //this will be an assignment
     token: {
         type: String,
         default: null
