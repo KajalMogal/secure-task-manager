@@ -13,7 +13,7 @@ const login = (async() => {
             validation: (input) => input ? true : 'username is required.'
         },
         {
-            type: 'input',
+            type: 'password',
             name: 'password',
             message: 'Enter your password:',
             validation: (input) => input ? true : 'password is required.'
