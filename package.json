@@ -1,9 +1,9 @@
 {
   "name": "secure-task-manager",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "description": "A cli package that can be used for secure task mangement",
   "main": "index.js",
- "scripts": {
+  "scripts": {
     "test": "nodemon index.js"
   },
   "author": "",
