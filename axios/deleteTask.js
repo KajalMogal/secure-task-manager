@@ -25,7 +25,7 @@ const API_URL = 'http://127.0.0.1:3000';
            
           const tasks = response.data.tasks;
 
-         // console.log('Tasks:', JSON.stringify(tasks, null, 2));
+         
 
            const { taskId } = await inquirer.prompt([
                {
