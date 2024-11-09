@@ -53,6 +53,6 @@ Commands:
 
 ## Author
 
-- [KajalMogal]
+- KajalMogal
    
 
