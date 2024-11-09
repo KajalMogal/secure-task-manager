@@ -53,12 +53,4 @@ Commands:
 
 ## Author
 
-- [KajalMogal]
-   
-
-   
-   
-<<<<<<< HEAD
-=======
-
->>>>>>> 4fda15a65f2f739ae909f0014ec04c7f6dee1335
+- KajalMogal
