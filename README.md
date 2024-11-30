@@ -66,7 +66,7 @@ Commands:
 
 ## Author
 
-- KajalMogal
+- [KajalMogal](https://github.com/KajalMogal)
 
 ## Keywords 
 
