@@ -1,5 +1,5 @@
 # Secure Task Manager
-A cli package which can be used for secure task management, where user can register, login and can manage their tasks. Users data is stored in thir corresponding account and their passwords are stored in hashed form in the database.
+A cli package which can be used for secure task management, where user can register, login and can manage their tasks. Users data is stored in their corresponding account and their passwords are stored in hashed form in the database.
 
 ## Tech Stack
 Frontend: `commander.js` `inquirer.js`
