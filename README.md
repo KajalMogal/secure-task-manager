@@ -53,11 +53,11 @@ Commands:
 
 5. to add new tasks
 
-   ```bash
-      secure-task-manager add
-   ```
+```bash
+   secure-task-manager add
+```
    
-     ![taskAdd](https://github.com/user-attachments/assets/6460a6fa-c682-480b-bd97-d173ea0c95db)
+   ![taskAdd](https://github.com/user-attachments/assets/6460a6fa-c682-480b-bd97-d173ea0c95db)
 
    
 
