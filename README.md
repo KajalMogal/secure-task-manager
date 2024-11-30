@@ -16,8 +16,9 @@ Backend:  `Node.js` `Express.js` `MongoDB`
 ```bash
    secure-task-manager help
 ```
+![homePage](https://github.com/user-attachments/assets/f26cd1fa-a170-4fa7-85d4-9986fcaf28cd)
 
-![commands](https://github.com/user-attachments/assets/aad9d51e-e22d-4801-9aa1-5a5b1d9ed34c)
+
 
 ```bash
    Options:
