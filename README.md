@@ -12,7 +12,7 @@ Backend:  `Node.js` `Express.js` `MongoDB`
    npm install -g secure-task-manager
 ```
 
-2.To become familier with this package reun command
+2.To become familier with this package run command
 ```bash
    secure-task-manager help
 ```
@@ -49,6 +49,19 @@ Commands:
 ```
 
    ![login](https://github.com/user-attachments/assets/64daf2f0-d98b-4a77-a0f9-6f60e1754115)
+
+
+5. to add new tasks
+
+   ```bash
+      secure-task-manager add
+   ```
+   
+     ![taskAdd](https://github.com/user-attachments/assets/6460a6fa-c682-480b-bd97-d173ea0c95db)
+
+   
+
+   
 
 
 ## Author
